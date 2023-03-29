@@ -1,10 +1,10 @@
-# 👋 Hi there! I'm Inge Heeringa, a full stack web developer based in sunny Barcelona, Spain.
+# 👋 Hi there! I'm Inge Heeringa, a full stack web developer based in Barcelona, Spain.
 
 👩‍💻 My passion is creating elegant, user-friendly web applications. With a focus on clean, maintainable, and scalable code, I aim to provide users with an exceptional experience that is both seamless and accessible.
 
 🚀 As a developer, I'm committed to constantly improving my skills and staying up-to-date with the latest technologies and trends in the industry. I'm a strong believer in SOLID principles and the importance of testing, which allows me to deliver efficient and reliable applications.
 
-📚 When I'm not coding, you can find me writing and exploring the endless possibilities of language. I also love to craft jewelry and browse second-hand book shops to find hidden gems. My two cats keep me entertained and are always eager to play. I'm also a photography enthusiast and enjoy capturing beautiful moments, landscapes and people.
+📚 When I'm not coding, you can find me writing and exploring the endless possibilities of language. I also love to craft jewelry and browse second-hand book shops to find hidden gems I'm also a photography enthusiast and enjoy capturing beautiful moments, landscapes and people.
 
 ✨ If you'd like to collaborate or just say hi, don't hesitate to send me a message!
 
